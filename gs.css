@@ -1,0 +1,25 @@
+.speech{
+    color:black;font-size:25px;
+    font-family: 'Courier New', Courier, monospace;
+}
+.song{
+    color: black;font-size: 15px;
+}
+.direction{
+        color:black;
+        background-color: greenyellow;
+        font-size:50px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.name{
+    color:black;font-size: 35px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+a:hover{color:yellow;background-color:hotpink}
+.CAP{
+    color:crimson;font-size: 35px;
+}
+.JOS{
+    color:cyan;font-size: 35px;
+}
+
