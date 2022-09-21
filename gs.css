@@ -15,11 +15,27 @@
     color:black;font-size: 35px;
     font-family: Arial, Helvetica, sans-serif;
 }
-a:hover{color:yellow;background-color:hotpink}
+.direction:hover{color:yellow;background-color:hotpink}
 .CAP{
     color:crimson;font-size: 35px;
 }
 .JOS{
     color:cyan;font-size: 35px;
 }
+table, td {  
+    border: 3px solid #bbb;
+    text-align:center;
+    padding: 25px;
+    margin:50px;
+    color: chartreuse;
+    
+  }
+  th{
+    border: 3px solid #bbb;
+    text-align:center;
+    color:palevioletred
+  }
+  tr:nth-child(even) {
+    background-color: #f2f2f2;
+  }
 
